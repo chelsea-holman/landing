@@ -1,0 +1,17 @@
+.hero-section {
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  margin: auto;
+}
+
+.hero-section h1, .hero-section p {
+  color: white;
+  text-shadow: 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.hero-container {
+  width: 800px;
+  margin: auto;
+}
